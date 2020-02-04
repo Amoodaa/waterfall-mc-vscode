@@ -1,0 +1,15 @@
+{
+  "name": "waterfall-mc",
+  "version": "1.0.0",
+  "description": "Morning challenge: implement a waterfall function",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon waterfall.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
